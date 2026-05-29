@@ -1,0 +1,30 @@
+[debug] [2026-05-29T07:13:34.567Z] ----------------------------------------------------------------------
+[debug] [2026-05-29T07:13:34.594Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2026-05-29T07:13:34.596Z] CLI Version:   15.19.0
+[debug] [2026-05-29T07:13:34.597Z] Platform:      win32
+[debug] [2026-05-29T07:13:34.597Z] Node Version:  v22.19.0
+[debug] [2026-05-29T07:13:34.599Z] Time:          Fri May 29 2026 15:13:34 GMT+0800 (Philippine Standard Time)
+[debug] [2026-05-29T07:13:34.599Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-05-29T07:13:34.608Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2026-05-29T07:14:18.270Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:309:49)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2026-05-29T07:16:23.122Z] ----------------------------------------------------------------------
+[debug] [2026-05-29T07:16:23.135Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2026-05-29T07:16:23.136Z] CLI Version:   15.19.0
+[debug] [2026-05-29T07:16:23.137Z] Platform:      win32
+[debug] [2026-05-29T07:16:23.137Z] Node Version:  v22.19.0
+[debug] [2026-05-29T07:16:23.137Z] Time:          Fri May 29 2026 15:16:23 GMT+0800 (Philippine Standard Time)
+[debug] [2026-05-29T07:16:23.138Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-05-29T07:16:23.142Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2026-05-29T07:16:33.374Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:309:49)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[error] 
+[error] Error: An unexpected error has occurred.
